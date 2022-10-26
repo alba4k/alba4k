@@ -11,6 +11,7 @@ What do I like?
 
 My favorite languages:
 * 🐍 Python
+* 🄲 C (C++)
 
 ---
 
