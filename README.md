@@ -17,7 +17,7 @@ My favorite languages:
 
 You can contact me in many ways, I would maybe suggest, for example:
 * 🌐 Telegram - [@alba4k](https://telegram.me/alba4k)
-* 🤖 Discord - [@alba4k]([https://discord.com/channels/@me](https://discord.com/users/603136718891253761))
+* 🤖 Discord - [@alba4k](https://discord.com/users/603136718891253761)
 * 📧 E-Mail - blaskoazzolaaaron@gmail.com
 
 ---
