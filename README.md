@@ -1,6 +1,8 @@
 # alba4k
 ### 👋 Hi, I’m @alba4k (aka Aaron Blasko), a swiss nerd who almost enjoys not having a social life ¯\\\_(ツ)\_/¯
 
+![stats](https://github-readme-stats.vercel.app/api?username=alba4k&show_icons=true&theme=dark)
+
 ---
 
 What do I like?
