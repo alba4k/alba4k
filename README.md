@@ -1,5 +1,5 @@
 # alba4k
-### 👋 Hi, I’m @alba4k (aka Aaron Blasko), a swiss nerd who almost enjoys not having a social life ¯\\\_(ツ)\_/¯
+### 👋 Hi, I’m @alba4k (aka Aaron Blasko), a random swiss guy who likes coding and working around software ¯\\\_(ツ)\_/¯
 
 ![stats](https://github-readme-stats.vercel.app/api?username=alba4k&show_icons=true&theme=dark)
 
@@ -8,19 +8,22 @@
 What do I like?
 * 💻 Computers
 * 🐧 Linux
+* ⛵ Sailing
+* 🌲 Touching grass
 
 ---
 
 My favorite languages:
 * 🐍 Python
-* 🄲 C (C++)
+* 🄲 C (and C++ I guess)
+* 🐚 Bash
 
 ---
 
 You can contact me in many ways, I would maybe suggest, for example:
 * 🌐 Telegram - [@alba4k](https://telegram.me/alba4k)
 * 🤖 Discord - [@alba4k](https://discord.com/users/603136718891253761)
-* 📧 E-Mail - blaskoazzolaaaron@gmail.com
+* 📧 E-Mail - [blaskoazzolaaaron@gmail.com](mailto:blaskoazzolaaaron@gmail.com)
 
 ---
 
