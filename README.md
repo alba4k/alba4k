@@ -1,33 +1,29 @@
 # alba4k
-### 👋 Hi, I’m @alba4k (aka Aaron Blasko), a random swiss guy who likes coding and working around software ¯\\\_(ツ)\_/¯
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alba4k)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/603136718891253761)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blaskoazzolaaaron@gmail.com)
 
-![stats](https://github-readme-stats.vercel.app/api?username=alba4k&show_icons=true&theme=dark)
+### 👋 Hi, I’m @alba4k (aka Aaron Blasko), a random Swiss guy who likes coding and working around software ¯\\\_(ツ)\_/¯
+#### 🎓 Currently starting my CS studies at [ETHZ](https://ethz.ch/en.html)
 
 ---
 
-What do I like?
+**Things I enjoy**:
 * 💻 Computers
 * 🐧 Linux
 * ⛵ Sailing
-* 🌲 Touching grass
+* 🌿 Touching grass
 
 ---
 
-My favorite languages:
-* 🐍 Python
-* 🄲 C (and C++ I guess)
-* 🐚 Bash
+<!-- Might want to change it to center, idk -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alba4k&show_icons=true&theme=dark" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alba4k&exclude_repo=.dotfiles&layout=compact&theme=dark&card_width=320" height="180em"/>
+</div>
 
 ---
 
-You can contact me in many ways, I would maybe suggest, for example:
-* 🌐 Telegram - [@alba4k](https://telegram.me/alba4k)
-* 🤖 Discord - [@alba4k](https://discord.com/users/603136718891253761)
-* 📧 E-Mail - [blaskoazzolaaaron@gmail.com](mailto:blaskoazzolaaaron@gmail.com)
-
----
-
-Or you can support me using:
-* ☕ BuyMeACoffee - [@alba4k](https://www.buymeacoffee.com/alba4k)
-* 💵 PayPal - [@alba4k](https://www.paypal.me/alba4k)
-* 🐈‍⬛ GitHub Sponsors - [@alba4k](https://github.com/sponsors/alba4k)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/alba4k)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.me/alba4k)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-FF69B4?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/alba4k)
