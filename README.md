@@ -2,6 +2,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alba4k)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/603136718891253761)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blaskoazzolaaaron@gmail.com)
+[![Steam](https://img.shields.io/badge/Steam-00adee?logo=steam&logoColor=white)](https://steamcommunity.com/id/alba4k)
 
 ### 👋 Hi, I’m @alba4k (aka Aaron Blasko), a random Swiss guy who likes coding and working around software ¯\\\_(ツ)\_/¯
 #### 🎓 Currently starting my CS studies at [ETHZ](https://ethz.ch/en.html)
